@@ -4,13 +4,15 @@
 <h1 align="center">Привет, я — Full-Stack инженер и исследователь ИИ 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=600&lines=FastAPI+%7C+Django+%7C+REST+APIs;PostgreSQL+%7C+SQLite+%7C+Docker;Neural+Networks+%7C+Reinforcement+Learning;Zabbix+%7C+Active+Directory+%7C+SCCM;Prompt+Engineering+%7C+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=600&lines=FastAPI+%7C+Django+%7C+REST+APIs;PostgreSQL+%7C+SQLite+%7C+Docker;Neural+Networks+%7C+Reinforcement+Learning;Zabbix+%7C+Active+Directory+%7C+SCCM;Prompt+Engineering+%7C+System+Design;MLOps+%7C+Cloud+Architecture+%7C+Microservices" alt="Typing SVG" />
 </p>
 
 <div align="center">
+  
 ![GitHub stars](https://img.shields.io/github/stars/DenisDrobyshev?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/DenisDrobyshev?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=DenisDrobyshev&color=9D4EDD&style=flat-square)
+
 </div>
 
 ---
