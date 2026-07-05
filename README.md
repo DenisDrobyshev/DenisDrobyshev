@@ -13,6 +13,7 @@
 <a href="https://t.me/multiheadselfattention"><img src="https://img.shields.io/badge/Telegram-%40multiheadselfattention-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://github.com/DenisDrobyshev"><img src="https://img.shields.io/badge/GitHub-DenisDrobyshev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://denisdrobyshev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://career.habr.com/denisdrobyshev"><img src="https://img.shields.io/badge/Habr%20Career-Профиль-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Moscow-1f3a5f?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
