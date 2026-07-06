@@ -88,7 +88,7 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): e-commerce on React (React Router, Context API, cart, wishlist).
 - [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): UAV stability analysis (Runge-Kutta, eigenvalues, GUI).
 - [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): recognizes a function from a hand drawn graph, exports formulas to text, LaTeX and Excel.
-- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): Streamlit front end with a FastAPI back end.
+- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): geodetic coordinate transformation service (7-parameter Helmert), FastAPI + Streamlit.
 - [universum](https://github.com/DenisDrobyshev/universum): neural network and ML coursework from my final year.
 - [CIFAR10](https://github.com/DenisDrobyshev/CIFAR10) · [veloshop](https://github.com/DenisDrobyshev/veloshop) (Vue/Nuxt) · [ToDoshka](https://github.com/DenisDrobyshev/ToDoshka) (Flutter).
 
