@@ -133,16 +133,12 @@ Moscow State University of Geodesy and Cartography, Faculty of Geoinformatics an
 
 ---
 
-## GitHub stats
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DenisDrobyshev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDrobyshev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=DenisDrobyshev&hide_border=true&theme=tokyonight" alt="streak"/>
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDenisDrobyshev&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/DenisDrobyshev?style=for-the-badge&logo=github&label=Followers&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev)
 
 </div>
 
