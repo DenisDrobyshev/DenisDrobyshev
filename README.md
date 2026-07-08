@@ -63,6 +63,16 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - **XML metadata export** for bibliographic indexing, and tests at several levels.
 - `Python · Django · PostgreSQL · Docker · Nginx · Gunicorn · OIDC`
 
+**[approval-service](https://github.com/DenisDrobyshev/approval-service): content approval backend**
+- Production style REST service where content moves through a **state machine**, with a full **audit log** and a **transactional outbox** for reliable event delivery.
+- **Idempotency-Key** support, per-workspace **multi-tenant isolation**, scope based header auth, and secret redaction in logs.
+- `Python · FastAPI · async SQLAlchemy 2.0 · Alembic · PostgreSQL · Docker · pytest`
+
+**[reinforce](https://github.com/DenisDrobyshev/reinforce): reinforcement learning library**
+- A dependency-light, correctness-first RL library I wrote from scratch: more than 20 algorithms (DQN family, PPO, SAC, TD3, DDPG, A2C, REINFORCE, plus offline and multi-agent) on PyTorch.
+- Unified `predict / learn / save / load` API, CLI, reproduced benchmark scores, 200+ tests, CI on Python 3.9 to 3.12, and a live [documentation site](https://denisdrobyshev.github.io/reinforce/).
+- `Python · PyTorch · NumPy · Gymnasium · MkDocs · GitHub Actions`
+
 **[Detector_app](https://github.com/DenisDrobyshev/Detector_app): real time detection on video**
 - Streamlit app that finds events in the frame live: **YOLO** for detection, **InsightFace** for face recognition.
 - Works with a webcam and video files, produces CSV reports and statistics.
@@ -76,15 +86,12 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - Compared three architectures (dense, simple CNN, VGG style). Best model reached **F1 0.88**. Served inference through FastAPI with a Streamlit interface.
 - `Python · TensorFlow/Keras · CNN · FastAPI · Streamlit`
 
-**[excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): FastAPI backend**
-- Turns Excel files into database tables: authentication, configurable templates, validation by type and rules, and a web interface for edits.
-- `Python · FastAPI · Uvicorn`
-
 <details>
 <summary><b>More projects</b></summary>
 
 <br/>
 
+- [excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): FastAPI service that turns Excel files into validated database tables (auth, configurable templates, web UI).
 - [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): e-commerce on React (React Router, Context API, cart, wishlist).
 - [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): UAV stability analysis (Runge-Kutta, eigenvalues, GUI).
 - [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): recognizes a function from a hand drawn graph, exports formulas to text, LaTeX and Excel.
