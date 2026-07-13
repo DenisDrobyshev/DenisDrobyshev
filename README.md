@@ -68,9 +68,9 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - **Idempotency-Key** support, per-workspace **multi-tenant isolation**, scope based header auth, and secret redaction in logs.
 - `Python · FastAPI · async SQLAlchemy 2.0 · Alembic · PostgreSQL · Docker · pytest`
 
-**[reinforce](https://github.com/DenisDrobyshev/reinforce): reinforcement learning library**
-- A dependency-light, correctness-first RL library I wrote from scratch: more than 20 algorithms (DQN family, PPO, SAC, TD3, DDPG, A2C, REINFORCE, plus offline and multi-agent) on PyTorch.
-- Unified `predict / learn / save / load` API, CLI, reproduced benchmark scores, 200+ tests, CI on Python 3.9 to 3.12, and a live [documentation site](https://denisdrobyshev.github.io/reinforce/).
+**[decisionrl](https://github.com/DenisDrobyshev/decisionrl): reinforcement learning for operational decisions**
+- RL for operational decisions (pricing, inventory, energy, queues, supply chains): each environment ships with the classic operations-research baseline it beats. Written from scratch: 31 algorithms (DQN family, PPO, SAC, TD3, TRPO, A2C, REINFORCE, offline, model-based, multi-agent, meta-RL) on PyTorch.
+- Unified `predict / learn / save / load` API, CLI, reproduced benchmark scores, 345 tests, CI on Python 3.9 to 3.12, published on PyPI (`pip install decisionrl`), and a live [documentation site](https://denisdrobyshev.github.io/decisionrl/).
 - `Python · PyTorch · NumPy · Gymnasium · MkDocs · GitHub Actions`
 
 **[Detector_app](https://github.com/DenisDrobyshev/Detector_app): real time detection on video**
