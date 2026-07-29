@@ -145,7 +145,7 @@ Moscow State University of Geodesy and Cartography, Faculty of Geoinformatics an
 
 <div align="center">
 
-[![Public repos](https://img.shields.io/github/repos/DenisDrobyshev?style=for-the-badge&logo=github&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev?tab=repositories)
+[![Public repos](https://img.shields.io/github/public-repos/DenisDrobyshev?style=for-the-badge&logo=github&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/DenisDrobyshev?style=for-the-badge&logo=github&label=Followers&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev)
 
 </div>
