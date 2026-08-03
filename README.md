@@ -4,6 +4,8 @@ Backend developer — Python, Django, FastAPI. Moscow, open to work.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
+**English** · [Русский](README.ru.md)
+
 ## About
 
 I write backends in Python: Django and FastAPI, PostgreSQL underneath, Docker and Nginx in front. I take a project the whole way — schema, server logic, API, interface, deployment. A service that runs only on my laptop is not finished, and three of mine run on MIIGAiK infrastructure: the journal portal from my thesis, the class schedule service and the student personal account.
@@ -25,6 +27,10 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 | [**glia**](https://github.com/DrobyshevDev/glia) | A glass-box library for building LLM agents: modern techniques as opt-in primitives, no hidden control flow, zero-dependency core. | [docs](https://drobyshevdev.github.io/glia/) |
 | [**praxis**](https://github.com/DrobyshevDev/praxis) | A legal assistant for Russian law whose citations are verified rather than asserted: hybrid retrieval with reranking, an NLI citation verifier, GraphRAG over cross-references. | [release](https://github.com/DrobyshevDev/praxis/releases/latest) |
 | [**lemma**](https://github.com/DrobyshevDev/lemma) | A free course: a road map through ML, DL and RL, from zero to reading and reproducing research. 27 modules, in Russian. | [site](https://drobyshevdev.github.io/lemma/) |
+
+<!-- RELEASES:START -->
+Latest releases: [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 Jul 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 Jul 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 Jul 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 Jul 2026)
+<!-- RELEASES:END -->
 
 ## Experience
 
