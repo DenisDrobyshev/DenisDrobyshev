@@ -13,6 +13,7 @@
 <a href="https://t.me/multiheadselfattention"><img src="https://img.shields.io/badge/Telegram-%40multiheadselfattention-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://github.com/DenisDrobyshev"><img src="https://img.shields.io/badge/GitHub-DenisDrobyshev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://denisdrobyshev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://drobyshevdev.github.io/"><img src="https://img.shields.io/badge/Open%20source-DrobyshevDev-4f46e5?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://career.habr.com/denisdrobyshev"><img src="https://img.shields.io/badge/Habr%20Career-Профиль-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Moscow-1f3a5f?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white"/>
@@ -33,6 +34,21 @@ I am looking for my first full time role as a **Junior Backend / Python Develope
 - **Also work with:** Go (internal services), JavaScript, React, Vue
 - **ML / CV:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO
 - **Based in:** Moscow, open to remote or hybrid
+
+---
+
+## DrobyshevDev
+
+My open-source work lives in the **[DrobyshevDev](https://github.com/DrobyshevDev)** organisation: frameworks and tooling for machine learning, LLM agents and operational decision systems. Everything there is typed, tested in CI on Linux, macOS and Windows, and installable in one command.
+
+**→ [drobyshevdev.github.io](https://drobyshevdev.github.io/)**
+
+| Project | What it is | |
+|---|---|---|
+| [**praxis**](https://github.com/DrobyshevDev/praxis) | A legal assistant for Russian law whose citations are checked rather than asserted: hybrid retrieval, an NLI citation verifier, GraphRAG over cross-references | `docker compose up app` |
+| [**mlango**](https://github.com/DrobyshevDev/mlango) | A framework for ML, analytics and LLM agents, built on Django's philosophy | [PyPI](https://pypi.org/project/mlango/) · [docs](https://drobyshevdev.github.io/mlango/) |
+| [**decisionrl**](https://github.com/DrobyshevDev/decisionrl) | Reinforcement learning for operational decisions, measured against the classical operations-research baselines | [PyPI](https://pypi.org/project/decisionrl/) · [docs](https://drobyshevdev.github.io/decisionrl/) |
+| [**glia**](https://github.com/DrobyshevDev/glia) | A glass-box, minimal library for building LLM agents — modern techniques as opt-in primitives, no hidden control flow | [docs](https://drobyshevdev.github.io/glia/) |
 
 ---
 
@@ -68,10 +84,10 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - **Idempotency-Key** support, per-workspace **multi-tenant isolation**, scope based header auth, and secret redaction in logs.
 - `Python · FastAPI · async SQLAlchemy 2.0 · Alembic · PostgreSQL · Docker · pytest`
 
-**[decisionrl](https://github.com/DenisDrobyshev/decisionrl): reinforcement learning for operational decisions**
+**[decisionrl](https://github.com/DrobyshevDev/decisionrl): reinforcement learning for operational decisions**
 - RL for operational decisions (pricing, inventory, energy, queues, supply chains). Each environment ships with its classical operations-research baseline; verified over multiple seeds, the learned policy beats the strong baseline on five tasks and matches the exact dynamic-programming optimum where one exists. Benchmarked head-to-head against Stable-Baselines3 (PPO parity on CartPole).
-- Written from scratch: 31 algorithms (DQN family, PPO, SAC, TD3, TRPO, offline, model-based, multi-agent, meta-RL) on PyTorch, 20 environments (8 applied), a unified `predict / learn / save / load` API, a CLI, and Gymnasium registration.
-- 385 tests, 86% coverage, typed (mypy), CI on Python 3.9 to 3.12, published on PyPI (`pip install decisionrl`), with a [documentation site](https://denisdrobyshev.github.io/decisionrl/).
+- Written from scratch: 31 algorithms (DQN family, PPO, SAC, TD3, TRPO, offline, model-based, multi-agent, meta-RL) on PyTorch, 22 environments (9 applied), 12 gradient-free optimizers, a unified `predict / learn / save / load` API, a CLI, and Gymnasium registration.
+- 400 tests, 86% coverage, typed (mypy), CI on Python 3.9 to 3.12, published on PyPI (`pip install decisionrl`), with a [documentation site](https://drobyshevdev.github.io/decisionrl/).
 - `Python · PyTorch · NumPy · Gymnasium · MkDocs · GitHub Actions`
 
 **[Detector_app](https://github.com/DenisDrobyshev/Detector_app): real time detection on video**
@@ -97,8 +113,12 @@ A full web portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*,
 - [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): UAV stability analysis (Runge-Kutta, eigenvalues, GUI).
 - [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): recognizes a function from a hand drawn graph, exports formulas to text, LaTeX and Excel.
 - [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): geodetic coordinate transformation service (7-parameter Helmert), FastAPI + Streamlit.
-- [universum](https://github.com/DenisDrobyshev/universum): neural network and ML coursework from my final year.
-- [CIFAR10](https://github.com/DenisDrobyshev/CIFAR10) · [veloshop](https://github.com/DenisDrobyshev/veloshop) (Vue/Nuxt) · [ToDoshka](https://github.com/DenisDrobyshev/ToDoshka) (Flutter).
+- [marginpilot](https://github.com/DenisDrobyshev/marginpilot): AI margin control plane — per-customer LLM cost metering and real-time budgets (Go, gRPC, Kafka, ClickHouse).
+- [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): stage-gated AI co-founder for marketplace sellers, working from live marketplace data.
+- [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): a research-backed three-week method for quitting short-form video, EN/RU.
+- [universum](https://github.com/DenisDrobyshev/universum) · [CIFAR10](https://github.com/DenisDrobyshev/CIFAR10): neural network and ML coursework from my final year.
+
+Earlier coursework — games, Java exercises, first React and Flutter apps — is archived rather than deleted, so the history stays readable without competing for attention with current work.
 
 </details>
 
@@ -146,8 +166,8 @@ Moscow State University of Geodesy and Cartography, Faculty of Geoinformatics an
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/DenisDrobyshev?style=for-the-badge&logo=github&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev?tab=followers)
-![Public repos](https://img.shields.io/badge/Public_repos-48-blue)
 [![Stars](https://img.shields.io/github/stars/DenisDrobyshev?style=for-the-badge&logo=github&labelColor=1f3a5f&color=2563a8)](https://github.com/DenisDrobyshev?tab=stars)
+[![Organisation](https://img.shields.io/badge/Org-DrobyshevDev-2563a8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrobyshevDev)
 
 </div>
 
