@@ -1,6 +1,6 @@
 # Denis Drobyshev
 
-Backend developer — Python, Django, FastAPI. Moscow, open to work.
+Fullstack developer. Work in DrobyshevDev.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
@@ -13,7 +13,7 @@ I write backends in Python: Django and FastAPI, PostgreSQL underneath, Docker an
 Alongside the web work I build machine learning and computer vision projects: real-time detection on video, image classifiers, a geospatial pipeline over OpenStreetMap.
 
 - **Core:** Python · Django · FastAPI · PostgreSQL · SQL · Docker · Nginx · Gunicorn · Linux · Git
-- **Also:** Go · JavaScript · React · Vue
+- **Also:** Go · JavaScript · React · Vue · Java
 - **ML / CV:** PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO
 
 ## Open source
@@ -110,7 +110,7 @@ Earlier coursework — games, Java exercises, first React and Flutter apps — i
 ## Education
 
 **B.Sc. in Applied Informatics (09.03.03)** · `2022–2026`<br>
-MIIGAiK — Moscow State University of Geodesy and Cartography, Faculty of Geoinformatics and Information Security.
+MIIGAiK — Moscow State University of Geodesy and Cartography, Department of Geoinformatics and Information Security.
 
 ## Contact
 
