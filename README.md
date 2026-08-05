@@ -1,6 +1,7 @@
 # Denis Drobyshev
 
 Fullstack developer. Work in DrobyshevDev.
+I invite you to join my company [DrobyshevDev](https://github.com/DrobyshevDev)
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
