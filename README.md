@@ -29,7 +29,7 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 | [**lemma**](https://github.com/DrobyshevDev/lemma) | A free course: a road map through ML, DL and RL, from zero to reading and reproducing research. 27 modules, in Russian. | [site](https://drobyshevdev.github.io/lemma/) |
 
 <!-- RELEASES:START -->
-Latest releases: [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 Jul 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 Jul 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 Jul 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 Jul 2026)
+Latest releases: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 Aug 2026) · [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 Jul 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 Jul 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 Jul 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 Jul 2026)
 <!-- RELEASES:END -->
 
 ## Experience

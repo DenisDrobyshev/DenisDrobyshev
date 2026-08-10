@@ -29,7 +29,7 @@
 | [**lemma**](https://github.com/DrobyshevDev/lemma) | Бесплатный курс: дорожная карта в ML, DL и RL — с нуля и до умения читать и воспроизводить исследования. 27 модулей. | [сайт](https://drobyshevdev.github.io/lemma/) |
 
 <!-- RELEASES:START -->
-Последние релизы: [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 июля 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 июля 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 июля 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 июля 2026)
+Последние релизы: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 августа 2026) · [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 июля 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 июля 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 июля 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 июля 2026)
 <!-- RELEASES:END -->
 
 ## Опыт
