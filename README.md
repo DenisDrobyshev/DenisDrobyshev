@@ -1,6 +1,6 @@
 # Denis Drobyshev
 
-Fullstack developer. Work in DrobyshevDev.
+Fullstack developer — Python, Django, FastAPI, React.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
@@ -112,6 +112,6 @@ MIIGAiK — Moscow State University of Geodesy and Cartography, Department of Ge
 
 ## Contact
 
-Open to backend and Python roles — Moscow, remote or hybrid.
+Open to backend and fullstack roles — Moscow, remote or hybrid.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention)

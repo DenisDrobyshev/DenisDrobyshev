@@ -1,6 +1,6 @@
 # Денис Дробышев
 
-Бэкенд-разработчик — Python, Django, FastAPI. Москва.
+Фулстек-разработчик — Python, Django, FastAPI, React.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Портфолио](https://denisdrobyshev.github.io/portfolio/) · [Хабр Карьера](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
@@ -112,6 +112,6 @@
 
 ## Контакты
 
-Открыт к предложениям по бэкенду и Python — Москва, удалённо или гибрид.
+Открыт к предложениям по бэкенду и фулстеку — Москва, удалённо или гибрид.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention)
