@@ -43,6 +43,13 @@ Systems development and support group; production internship.
 - Moved the project from development to production: secret management, debug mode, allowed hosts, system mail.
 - Loaded the real journal archive and verified metadata export to XML.
 
+**IT support technician — MIIGAiK, Informatisation Office** · `Dec 2024 – Jan 2026`<br>
+IT support service, 1 year 2 months.
+
+- Administered Windows and Linux workstations and servers in an Active Directory domain.
+- Wrote PowerShell and Bash automation for routine support work.
+- Kept the hardware running and set workplaces up: diagnostics, repair, software and driver configuration.
+
 **Backend / web developer — MIIGAiK internal systems** · `2023–2024`<br>
 Work on university services during my studies.
 
