@@ -1,6 +1,6 @@
 # Денис Дробышев
 
-Бэкенд-разработчик — Python, Django, FastAPI. Москва, открыт к предложениям.
+Бэкенд-разработчик — Python, Django, FastAPI. Москва.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Портфолио](https://denisdrobyshev.github.io/portfolio/) · [Хабр Карьера](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
@@ -10,10 +10,10 @@
 
 Пишу бэкенды на Python: Django и FastAPI, снизу PostgreSQL, спереди Docker и Nginx. Веду проект целиком — схема, серверная логика, API, интерфейс, деплой. Сервис, который работает только на моём ноутбуке, не закончен, и **три моих работают на инфраструктуре МИИГАиК**: портал журнала из дипломной работы, сервис расписания и личный кабинет студента.
 
-Рядом с вебом — машинное обучение и компьютерное зрение: детекция на видео в реальном времени, классификаторы изображений, геоаналитический пайплайн по данным OpenStreetMap.
+Рядом с этим выпускаю открытый код: пять проектов с тегированными релизами, три из них на PyPI. Машинное обучение и компьютерное зрение стоят на том же стеке — детекция на видео в реальном времени, классификаторы изображений, геоаналитический пайплайн по данным OpenStreetMap.
 
 - **Основное:** Python · Django · FastAPI · PostgreSQL · SQL · Docker · Nginx · Gunicorn · Linux · Git
-- **Также:** Go · JavaScript · React · Vue
+- **Также:** Go · JavaScript · React · Vue · Java
 - **ML / CV:** PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO
 
 ## Открытый код
@@ -23,6 +23,7 @@
 | Проект | Что это | |
 |---|---|---|
 | [**decisionrl**](https://github.com/DrobyshevDev/decisionrl) | Обучение с подкреплением для операционных решений: ценообразование, запасы, энергетика, очереди, цепочки поставок. Каждая прикладная среда идёт со своим классическим baseline из исследования операций, поэтому политику измеряют, а не объявляют хорошей. | [PyPI](https://pypi.org/project/decisionrl/) · [документация](https://drobyshevdev.github.io/decisionrl/) |
+| [**stadion**](https://github.com/DrobyshevDev/stadion) | Полигон для операционных решений: агентов оценивают против настроенного классического метода и точного оптимума, с доверительным интервалом. | [PyPI](https://pypi.org/project/stadion-rl/) |
 | [**mlango**](https://github.com/DrobyshevDev/mlango) | Фреймворк для ML, аналитики и LLM-агентов, построенный на философии Django: вы объявляете датасеты, модели и оценки, фреймворк их запускает, версионирует и записывает. | [PyPI](https://pypi.org/project/mlango/) · [документация](https://drobyshevdev.github.io/mlango/) |
 | [**glia**](https://github.com/DrobyshevDev/glia) | Прозрачная библиотека для сборки LLM-агентов: современные техники как опциональные примитивы, никакого скрытого потока управления, ядро без зависимостей. | [документация](https://drobyshevdev.github.io/glia/) |
 | [**praxis**](https://github.com/DrobyshevDev/praxis) | Юридический ассистент по праву РФ, у которого цитаты проверяются, а не утверждаются: гибридный поиск с реранкингом, NLI-верификатор цитат, GraphRAG по перекрёстным ссылкам. | [релиз](https://github.com/DrobyshevDev/praxis/releases/latest) |
@@ -35,7 +36,7 @@
 ## Опыт
 
 **Разработчик / DevOps — МИИГАиК, департамент информационных технологий (ДИТ)** · `2026`<br>
-Производственная практика, группа разработки и сопровождения систем.
+Группа разработки и сопровождения систем; производственная практика.
 
 - Развернул Django-портал на внутренней инфраструктуре университета: PostgreSQL, Gunicorn за Nginx, раздача статики и медиа.
 - Настроил единый вход через корпоративную учётную запись университета по OpenID Connect.
@@ -60,7 +61,7 @@
 - Экспорт метаданных в XML для библиографического индексирования и тесты на нескольких уровнях.
 - `Python · Django · PostgreSQL · Docker · Nginx · Gunicorn · OIDC`
 
-**[approval-service](https://github.com/DenisDrobyshev/approval-service) — бэкенд согласования контента** · `тестовое задание`
+**[approval-service](https://github.com/DenisDrobyshev/approval-service) — бэкенд согласования контента**
 
 - Контент двигается по конечному автомату: каждый переход попадает в журнал аудита, а события уходят из сервиса через транзакционный outbox.
 - Поддержка Idempotency-Key, изоляция арендаторов по воркспейсам, авторизация по заголовку со скоупами, вырезание секретов из логов.
@@ -101,9 +102,6 @@
 - [marginpilot](https://github.com/DenisDrobyshev/marginpilot): учёт стоимости LLM по каждому клиенту и бюджеты в реальном времени между приложением и провайдерами моделей. Go, в работе.
 - [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): пошаговый ассистент для продавцов маркетплейсов, работающий на живых данных площадок. В работе.
 - [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): трёхнедельный метод отказа от коротких видео вместе с исследованиями, на которых он стоит. EN/RU.
-- [universum](https://github.com/DenisDrobyshev/universum) · [CIFAR10](https://github.com/DenisDrobyshev/CIFAR10): практические работы по нейросетям и ML за выпускной курс.
-
-Ранние учебные работы — игры, задачи на Java, первые приложения на React и Flutter — заархивированы, а не удалены: история остаётся читаемой и не конкурирует за внимание с текущей работой.
 
 </details>
 
@@ -114,6 +112,6 @@
 
 ## Контакты
 
-Ищу первую полноценную работу джуниор-бэкенд / Python-разработчиком: Москва, удалённо или гибрид, готов выйти сразу.
+Открыт к предложениям по бэкенду и Python — Москва, удалённо или гибрид.
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention)
