@@ -33,6 +33,28 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 Latest releases: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 Aug 2026) · [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 Jul 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 Jul 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 Jul 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 Jul 2026)
 <!-- RELEASES:END -->
 
+## GitHub activity
+
+<p align="center">
+  <img alt="GitHub profile summary — Denis Drobyshev" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisDrobyshev&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="200" alt="Commits, pull requests, issues, contributed-to" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=tokyonight" />
+  <img height="200" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="200" alt="Most-committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisDrobyshev&theme=tokyonight" />
+  <img height="200" alt="Commits by time of day (UTC+3)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisDrobyshev&theme=tokyonight&utcOffset=3" />
+</p>
+
+> "Contributed to", pull requests and commits are counted across all public repositories, including pull requests to repositories I don't own.
+
 ## Experience
 
 **Software developer / DevOps — MIIGAiK, IT department (DIT)** · `2026`<br>

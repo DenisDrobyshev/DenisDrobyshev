@@ -33,6 +33,28 @@
 Последние релизы: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 августа 2026) · [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 июля 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 июля 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 июля 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 июля 2026)
 <!-- RELEASES:END -->
 
+## Активность на GitHub
+
+<p align="center">
+  <img alt="Сводка профиля GitHub — Денис Дробышев" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Серия вкладов" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisDrobyshev&hide_border=true&theme=tokyonight&locale=ru" />
+</p>
+
+<p align="center">
+  <img height="200" alt="Коммиты, пул-реквесты, issues, вклады" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=tokyonight" />
+  <img height="200" alt="Репозитории по языкам" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="200" alt="Языки по числу коммитов" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisDrobyshev&theme=tokyonight" />
+  <img height="200" alt="Коммиты по времени суток (UTC+3)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisDrobyshev&theme=tokyonight&utcOffset=3" />
+</p>
+
+> Коммиты, пул-реквесты и «Contributed to» считаются по всем публичным репозиториям, включая пул-реквесты в чужие репозитории.
+
 ## Опыт
 
 **Разработчик / DevOps — МИИГАиК, департамент информационных технологий (ДИТ)** · `2026`<br>
