@@ -36,24 +36,14 @@ Latest releases: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/
 ## GitHub activity
 
 <p align="center">
-  <img alt="GitHub profile summary — Denis Drobyshev" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=tokyonight&v=2" />
+  <img alt="GitHub metrics — commits, pull requests, contributions, languages" src="./github-metrics.svg" />
 </p>
 
 <p align="center">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=tokyonight&hide_border=true&v=2" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=tokyonight&hide_border=true&v=3" />
 </p>
 
-<p align="center">
-  <img height="200" alt="Commits, pull requests, issues, contributed-to" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=tokyonight&v=2" />
-  <img height="200" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=tokyonight&v=2" />
-</p>
-
-<p align="center">
-  <img height="200" alt="Most-committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisDrobyshev&theme=tokyonight&v=2" />
-  <img height="200" alt="Commits by time of day (UTC+3)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisDrobyshev&theme=tokyonight&utcOffset=3&v=2" />
-</p>
-
-> "Contributed to", pull requests and commits are counted across all public repositories, including pull requests to repositories I don't own.
+> Commits, pull requests and contributions are counted across all public repositories, including pull requests to repositories I don't own. The stats image is generated in CI and committed to this repository, so it never depends on a live third-party service.
 
 ## Experience
 
