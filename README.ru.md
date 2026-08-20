@@ -36,21 +36,21 @@
 ## Активность на GitHub
 
 <p align="center">
-  <img alt="Сводка профиля GitHub — Денис Дробышев" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=tokyonight" />
+  <img alt="Сводка профиля GitHub — Денис Дробышев" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img alt="Серия вкладов" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisDrobyshev&hide_border=true&theme=tokyonight&locale=ru" />
+  <img alt="Серия вкладов" src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=tokyonight&hide_border=true&locale=ru&v=2" />
 </p>
 
 <p align="center">
-  <img height="200" alt="Коммиты, пул-реквесты, issues, вклады" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=tokyonight" />
-  <img height="200" alt="Репозитории по языкам" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=tokyonight" />
+  <img height="200" alt="Коммиты, пул-реквесты, issues, вклады" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=tokyonight&v=2" />
+  <img height="200" alt="Репозитории по языкам" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img height="200" alt="Языки по числу коммитов" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisDrobyshev&theme=tokyonight" />
-  <img height="200" alt="Коммиты по времени суток (UTC+3)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisDrobyshev&theme=tokyonight&utcOffset=3" />
+  <img height="200" alt="Языки по числу коммитов" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenisDrobyshev&theme=tokyonight&v=2" />
+  <img height="200" alt="Коммиты по времени суток (UTC+3)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DenisDrobyshev&theme=tokyonight&utcOffset=3&v=2" />
 </p>
 
 > Коммиты, пул-реквесты и «Contributed to» считаются по всем публичным репозиториям, включая пул-реквесты в чужие репозитории.
