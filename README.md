@@ -32,20 +32,11 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 
 ## GitHub activity
 
-<div align="center">
-  <a href="https://github.com/DenisDrobyshev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisDrobyshev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDrobyshev&layout=compact&theme=dracula"/>
-  </a>
-</div>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=default" alt="o1ra" /></p>
 
-<br>
+<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denis_Drobyshev&theme=github" alt="stats_o1ra" /></p>
 
-<div align="center">
-  <a href="https://github.com/DenisDrobyshev">
-    <img src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=dracula" alt="GitHub Streak" />
-  </a>
-</div>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=default" alt="stats_o1ra"/></p>&nbsp;
 
 
 ## Experience
