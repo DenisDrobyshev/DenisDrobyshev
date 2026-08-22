@@ -32,16 +32,14 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 
 ## GitHub activity
 
-<p align="center">
-  <img alt="GitHub metrics — commits, pull requests, contributions, languages" src="./github-metrics.svg" />
-</p>
-
 <div align="center">
   <a href="https://github.com/DenisDrobyshev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisDrobyshev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisDrobyshev&layout=compact&theme=dracula"/>
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/DenisDrobyshev">
