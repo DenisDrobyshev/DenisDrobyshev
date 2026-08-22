@@ -36,14 +36,18 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
   <img alt="GitHub metrics — commits, pull requests, contributions, languages" src="./github-metrics.svg" />
 </p>
 
-<p align="center">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=tokyonight&hide_border=true&v=3" />
-</p>
+<div align="center">
+  <a href="https://github.com/DenisDrobyshev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-> Commits, pull requests and contributions are counted across all public repositories, including pull requests to repositories I don't own. The stats image is generated in CI and committed to this repository, so it never depends on a live third-party service.
-
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/DenisDrobyshev">
+    <img src="https://streak-stats.demolab.com/?user=ТВОЙ_НИК&theme=dracula" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 ## Experience
