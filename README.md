@@ -37,7 +37,7 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 </p>
 
 <div align="center">
-  <a href="https://github.com/DenisDrobyshev">
+  <a href="https://github.com/Denis_Drobyshev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dracula"/>
   </a>
