@@ -34,7 +34,7 @@ Libraries and tooling for machine learning, LLM agents and operational decisions
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=default" alt="o1ra" /></p>
 
-<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denis_Drobyshev&theme=github" alt="stats_o1ra" /></p>
+<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=github" alt="stats_o1ra" /></p>
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenisDrobyshev&theme=default" alt="stats_o1ra"/></p>&nbsp;
 
