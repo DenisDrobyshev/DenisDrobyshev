@@ -8,7 +8,7 @@ Fullstack developer — Python, Django, FastAPI, React.
 
 ## About
 
-I write backends in Python: Django and FastAPI, PostgreSQL underneath, Docker and Nginx in front. I take a project the whole way — schema, server logic, API, interface, deployment. A service that runs only on my laptop is not finished, and three of mine run on MIIGAiK infrastructure: the journal portal from my thesis, the class schedule service and the student personal account.
+I develop backends in Python: Django and FastAPI, PostgreSQL underneath, Docker and Nginx in front. I take a project the whole way — schema, server logic, API, interface, deployment. A service that runs only on my laptop is not finished, and three of mine run on MIIGAiK infrastructure: the journal portal from my thesis, the class schedule service and the student personal account.
 
 Alongside that I release open source: five projects under tagged releases, three of them on PyPI. Machine learning and computer vision run on the same stack — real-time detection on video, image classifiers, a geospatial pipeline over OpenStreetMap.
 
