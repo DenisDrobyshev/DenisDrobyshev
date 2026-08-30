@@ -1,4 +1,6 @@
-# Console.log("Hey, I'm Denis");
+# Hi there, I'm Denis 𝐖𝐄𝐋𝐂𝐎𝐌𝐄
+
+# 😎🤏😳🕶🤏
 
 Fullstack developer — Python, Django, FastAPI, React.
 
