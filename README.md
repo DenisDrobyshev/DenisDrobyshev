@@ -1,8 +1,5 @@
 # Hi there, I'm Denis 𝐖𝐄𝐋𝐂𝐎𝐌𝐄
 
-# 😎🤏😳🕶🤏
-
-**In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least, it is true that man has no control, even over his own will.**
 
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
 
