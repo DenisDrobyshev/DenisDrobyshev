@@ -6,9 +6,11 @@
 
 ## About
 
-I develop backends in Python: Django and FastAPI, PostgreSQL underneath, Docker and Nginx in front. I take a project the whole way — schema, server logic, API, interface, deployment. A service that runs only on my laptop is not finished, and three of mine run on MIIGAiK infrastructure: the journal portal from my thesis, the class schedule service and the student personal account.
+I am a Python Backend Developer focused on building production-ready web applications and end-to-end software solutions. My expertise spans the entire development lifecycle, including database schema design, core server logic, API architecture, frontend integration, and full-scale deployment. 
 
-Alongside that I release open source: five projects under tagged releases, three of them on PyPI. Machine learning and computer vision run on the same stack — real-time detection on video, image classifiers, a geospatial pipeline over OpenStreetMap.
+Several of my systems are successfully deployed within the MIIGAiK university infrastructure, including an academic journal portal (developed as part of my thesis), an automated class scheduling service, and the official student portal.
+
+In addition to commercial and academic projects, I actively contribute to the open-source ecosystem. I maintain five public projects with tagged releases, three of which are published on PyPI. My background also includes developing machine learning and computer vision pipelines, featuring real-time video object detection, image classification models, and geospatial data processing pipelines built on OpenStreetMap.
 
 - **Core:** Python · Django · FastAPI · PostgreSQL · SQL · Docker · Nginx · Gunicorn · Linux · Git
 - **Also:** Go · JavaScript · React · Vue · Java
