@@ -45,7 +45,7 @@ Systems development and support group, production internship.
 - Prepared the project for production: moved secrets out of the code, turned off debug mode, configured allowed hosts and system mail.
 - Loaded the journal's archive of issues and checked the XML metadata export.
 
-**IT support technician**, MIIGAiK Informatisation Office, Dec 2024 to Jan 2026
+**IT support technician**, MIIGAiK Informatisation Office, Dec 2024 to Mar 2026
 
 - Administered Windows and Linux workstations and servers in an Active Directory domain with SCCM.
 - Wrote PowerShell and Bash scripts for repetitive support tasks.
