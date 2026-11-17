@@ -1,128 +1,134 @@
-# Hi there, I'm Denis! Welcome to my GitHub profile.
+# Denis Drobyshev
 
+Fullstack developer: Python, Django, FastAPI, React.
 
-[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Portfolio](https://denisdrobyshev.github.io/portfolio/) · [Habr Career](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
+[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) | [Telegram](https://t.me/multiheadselfattention) | [Portfolio](https://denisdrobyshev.github.io/portfolio/) | [Habr Career](https://career.habr.com/denisdrobyshev) | [DrobyshevDev](https://github.com/DrobyshevDev)
 
+**English** | [Русский](README.ru.md)
 
 ## About
 
-I am a Python Backend Developer focused on building production-ready web applications and end-to-end software solutions. My expertise spans the entire development lifecycle, including database schema design, core server logic, API architecture, frontend integration, and full-scale deployment. 
+I write backends in Python: Django and FastAPI, PostgreSQL, Docker, Nginx. I usually take a project from the database schema and server logic to the interface and deployment. Three of my services run on MIIGAiK university infrastructure: an academic journal portal (my thesis), a class schedule service and the student personal account.
 
-Several of my systems are successfully deployed within the MIIGAiK university infrastructure, including an academic journal portal (developed as part of my thesis), an automated class scheduling service, and the official student portal.
+I also work on machine learning: object detection on video, image classification, geospatial analysis on OpenStreetMap data. My open-source libraries live in the DrobyshevDev organisation, and four of them are on PyPI.
 
-In addition to commercial and academic projects, I actively contribute to the open-source ecosystem. I maintain five public projects with tagged releases, three of which are published on PyPI. My background also includes developing machine learning and computer vision pipelines, featuring real-time video object detection, image classification models, and geospatial data processing pipelines built on OpenStreetMap.
-
-- **Core:** Python · Django · FastAPI · PostgreSQL · SQL · Docker · Nginx · Gunicorn · Linux · Git
-- **Also:** Go · JavaScript · React · Vue · Java
-- **ML / CV:** PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO
+Main stack: Python, Django, FastAPI, PostgreSQL, SQL, Docker, Nginx, Gunicorn, Linux, Git.
+I have also worked with Go, JavaScript, React, Vue and Java.
+Machine learning: PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO.
 
 ## Open source
 
-Libraries and tooling for machine learning, LLM agents and operational decisions, kept in the [DrobyshevDev](https://github.com/DrobyshevDev) organisation and documented at [drobyshevdev.github.io](https://drobyshevdev.github.io/). The libraries are typed, tested in CI and published under tagged releases.
+The libraries are in the [DrobyshevDev](https://github.com/DrobyshevDev) organisation, with documentation at [drobyshevdev.github.io](https://drobyshevdev.github.io/).
 
-| Project | What it is | |
+| Project | What it is | Links |
 |---|---|---|
-| [**decisionrl**](https://github.com/DrobyshevDev/decisionrl) | Reinforcement learning for operational decisions: pricing, inventory, energy, queues, supply chains. Every applied environment ships with its classical operations-research baseline, so a policy is measured against the standard method rather than asserted to be good. | [PyPI](https://pypi.org/project/decisionrl/) · [docs](https://drobyshevdev.github.io/decisionrl/) |
-| [**stadion**](https://github.com/DrobyshevDev/stadion) | A proving ground for operational decisions: agents are scored against the tuned classical method and the exact optimum, with a confidence interval. | [PyPI](https://pypi.org/project/stadion-rl/) |
-| [**mlango**](https://github.com/DrobyshevDev/mlango) | A framework for ML, analytics and LLM agents, built on Django's philosophy: you declare datasets, models and evaluations, the framework runs, versions and records them. | [PyPI](https://pypi.org/project/mlango/) · [docs](https://drobyshevdev.github.io/mlango/) |
-| [**glia**](https://github.com/DrobyshevDev/glia) | A glass-box library for building LLM agents: modern techniques as opt-in primitives, no hidden control flow, zero-dependency core. | [docs](https://drobyshevdev.github.io/glia/) |
-| [**praxis**](https://github.com/DrobyshevDev/praxis) | A legal assistant for Russian law whose citations are verified rather than asserted: hybrid retrieval with reranking, an NLI citation verifier, GraphRAG over cross-references. | [release](https://github.com/DrobyshevDev/praxis/releases/latest) |
-| [**lemma**](https://github.com/DrobyshevDev/lemma) | A free course: a road map through ML, DL and RL, from zero to reading and reproducing research. 27 modules, in Russian. | [site](https://drobyshevdev.github.io/lemma/) |
+| [decisionrl](https://github.com/DrobyshevDev/decisionrl) | Reinforcement learning for operational problems: pricing, inventory, energy, queues, supply chains. Each problem comes with a classical operations-research method that the trained policy is compared against. | [PyPI](https://pypi.org/project/decisionrl/), [docs](https://drobyshevdev.github.io/decisionrl/) |
+| [stadion](https://github.com/DrobyshevDev/stadion) | A benchmark for agents on operational problems. An agent's result is compared with a tuned classical method and with the exact optimum, together with a confidence interval. | [PyPI](https://pypi.org/project/stadion-rl/) |
+| [mlango](https://github.com/DrobyshevDev/mlango) | A framework for ML projects modelled on Django. Datasets, models and evaluations are declared in code, and the framework runs, versions and records them. | [PyPI](https://pypi.org/project/mlango/), [docs](https://drobyshevdev.github.io/mlango/) |
+| [glia](https://github.com/DrobyshevDev/glia) | A small library for LLM agents. Every model call and tool call can be logged and replayed, and the core has no dependencies. | [PyPI](https://pypi.org/project/glia-agents/), [docs](https://drobyshevdev.github.io/glia/) |
+| [praxis](https://github.com/DrobyshevDev/praxis) | A legal assistant for Russian law. Hybrid search over the codes, reranking, and an NLI model that checks every citation. | [release](https://github.com/DrobyshevDev/praxis/releases/latest) |
+| [lemma](https://github.com/DrobyshevDev/lemma) | A free course on ML, DL and RL: 27 modules with notebooks, in Russian. | [site](https://drobyshevdev.github.io/lemma/) |
 
+<!-- RELEASES:START -->
+Latest releases: [mlango](https://github.com/DrobyshevDev/mlango/releases/tag/v0.3.0) v0.3.0 (22 Aug 2026), [stadion](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 Aug 2026), [praxis](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 Jul 2026), [glia](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 Jul 2026), [decisionrl](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 Jul 2026).
+<!-- RELEASES:END -->
 
-## GitHub activity
+## Activity
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenisDrobyshev&theme=default" alt="o1ra" /></p>
-
-<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenisDrobyshev&theme=github" alt="stats_o1ra" /></p>
-
+<img alt="GitHub statistics" src="./github-metrics.svg" />
 
 ## Experience
 
-**Software developer / DevOps — MIIGAiK, IT department (DIT)** · `2026`<br>
-Systems development and support group; production internship.
+**Software developer / DevOps**, MIIGAiK IT department, 2026  
+Systems development and support group, production internship.
 
-- Deployed a Django portal on the university's internal infrastructure: PostgreSQL, Gunicorn behind Nginx, static and media serving.
-- Set up single sign-on with the corporate university account over OpenID Connect.
-- Moved the project from development to production: secret management, debug mode, allowed hosts, system mail.
-- Loaded the real journal archive and verified metadata export to XML.
+- Deployed a Django portal on the university's internal infrastructure: PostgreSQL, Gunicorn behind Nginx, static and media files.
+- Set up sign-in with the university's corporate account over OpenID Connect.
+- Prepared the project for production: moved secrets out of the code, turned off debug mode, configured allowed hosts and system mail.
+- Loaded the journal's archive of issues and checked the XML metadata export.
 
-**IT support technician — MIIGAiK, Informatisation Office** · `Dec 2024 – Jan 2026`<br>
-IT support service, 1 year 2 months.
+**IT support technician**, MIIGAiK Informatisation Office, Dec 2024 to Jan 2026
 
-- Administered Windows and Linux workstations and servers in an Active Directory domain.
-- Wrote PowerShell and Bash automation for routine support work.
-- Kept the hardware running and set workplaces up: diagnostics, repair, software and driver configuration.
+- Administered Windows and Linux workstations and servers in an Active Directory domain with SCCM.
+- Wrote PowerShell and Bash scripts for repetitive support tasks.
+- Repaired and configured computers, installed software and drivers, set up workplaces.
 
-**Backend / web developer — MIIGAiK internal systems** · `2023–2024`<br>
-Work on university services during my studies.
+**Backend / web developer**, MIIGAiK internal systems, 2023 to 2024
 
-- Class schedule service: a large SQL query that assembles the timetable from several related tables, integrated into the university's internal Go services.
-- Student personal account: schedule, grade book, profile and university news, with a responsive interface ([miigaik-lk](https://github.com/DenisDrobyshev/miigaik-lk)).
-- The infrastructure already existed — the work was reading other people's code, matching their conventions, and shipping changes that had to fit the rest of the system.
+- Class schedule service: wrote an SQL query that assembles the timetable from several related tables. The university's internal Go services use it.
+- Student personal account: schedule, grade book, profile and university news, responsive layout ([miigaik-lk](https://github.com/DenisDrobyshev/miigaik-lk)).
 
 ## Projects
 
-**GiA — academic journal portal** · `thesis, deployed` · private repository, demo on request<br>
-A portal for *Izvestia Vuzov. Geodesy and Aerophotography*: issue archive, editorial admin, reader accounts. Designed, built and deployed on university infrastructure.
+**GiA, academic journal portal** (thesis, deployed at the university; private repository, demo on request)  
+A portal for the journal *Izvestia Vuzov. Geodesy and Aerophotography*: issue archive, admin panel for the editors, reader accounts.
 
-- Admin panel generated for the editorial team: issues, articles, inline forms, with the rule that exactly one issue can be current.
-- Corporate SSO over OpenID Connect, personal accounts, role-based access.
-- Protection against CSRF, XSS and SQL injection; secrets kept out of the repository.
-- XML metadata export for bibliographic indexing, and tests at several levels.
-- `Python · Django · PostgreSQL · Docker · Nginx · Gunicorn · OIDC`
+- Admin panel for the editors: issues, articles, inline forms. Only one issue can be current at a time.
+- Sign-in through the corporate SSO over OpenID Connect, personal accounts, role-based access.
+- Protection against CSRF, XSS and SQL injection, secrets kept outside the repository.
+- XML metadata export for bibliographic databases, tests at several levels.
 
-**[approval-service](https://github.com/DenisDrobyshev/approval-service) — content approval backend**
+Stack: Python, Django, PostgreSQL, Docker, Nginx, Gunicorn, OpenID Connect.
 
-- Content moves through a state machine: every transition lands in an audit log, and events leave the service through a transactional outbox.
-- Idempotency-Key support, per-workspace multi-tenant isolation, scope-based header auth, secrets redacted in logs.
-- `Python · FastAPI · async SQLAlchemy 2.0 · Alembic · PostgreSQL · Docker · pytest`
+**[approval-service](https://github.com/DenisDrobyshev/approval-service)**, backend for content approval
 
-**[decisionrl](https://github.com/DrobyshevDev/decisionrl) — reinforcement learning for operational decisions**
+- Content goes through a state machine. Every transition is written to an audit log, and events leave the service through a transactional outbox.
+- Idempotency-Key support, data isolation per workspace, header auth with scopes, secrets removed from logs.
 
-- Each applied environment ships with the classical operations-research baseline it has to beat. Over five seeds the learned policy beats the strong baseline on five tasks and matches the exact dynamic-programming optimum where one exists; PPO reaches parity with Stable-Baselines3 on CartPole.
-- Written from scratch: 31 algorithms (DQN family, PPO, SAC, TD3, TRPO, offline, model-based, multi-agent, meta-RL) on PyTorch, 22 environments of which 9 are applied, 12 gradient-free optimizers, one `predict / learn / save / load` interface, a CLI and Gymnasium registration.
-- 400 tests, 86% coverage, typed and checked with mypy, CI on Python 3.9–3.12, published on PyPI.
-- `Python · PyTorch · NumPy · Gymnasium · MkDocs · GitHub Actions`
+Stack: Python, FastAPI, async SQLAlchemy 2.0, Alembic, PostgreSQL, Docker, pytest.
 
-**[Detector_app](https://github.com/DenisDrobyshev/Detector_app) — real-time detection on video**
+**[decisionrl](https://github.com/DrobyshevDev/decisionrl)**, reinforcement learning for operational problems
 
-- Finds events in the frame live: YOLO for detection, InsightFace for face recognition. Works with a webcam or a video file and produces CSV reports.
-- `Python · YOLO · InsightFace · OpenCV · Streamlit`
+- Each applied environment comes with a classical operations-research method that the trained policy is compared against. The policy beats it on five tasks and matches the optimal solution on two more.
+- Written from scratch: 32 algorithms on PyTorch (DQN and its variants, PPO, SAC, TD3, TRPO, offline, model-based, multi-agent, meta-RL), 24 environments of which 9 are applied, 12 gradient-free optimisers, one predict / learn / save / load interface and a CLI.
+- Typed and checked with mypy, CI on Python 3.9 to 3.12, published on PyPI.
 
-**[Geomarketing_analysis](https://github.com/DenisDrobyshev/Geomarketing_analysis) — choosing a location from geodata**
+Stack: Python, PyTorch, NumPy, Gymnasium, MkDocs, GitHub Actions.
 
-- Where to open a fitness centre: OpenStreetMap data, an H3 hex grid, an attractiveness model in scikit-learn, interactive maps.
-- `Python · scikit-learn · H3 · OSMnx · GeoPandas`
+**[Detector_app](https://github.com/DenisDrobyshev/Detector_app)**, real-time detection on video
 
-**[classification_animals](https://github.com/DenisDrobyshev/classification_animals) — image classifier**
+- Finds events in the frame as they happen: YOLO for detection, InsightFace for face recognition. Works with a webcam or a video file and saves reports to CSV.
 
-- Three architectures compared — dense, plain CNN, VGG-style. Best F1 0.88. Inference served through FastAPI behind a Streamlit interface.
-- `Python · TensorFlow/Keras · FastAPI · Streamlit`
+Stack: Python, YOLO, InsightFace, OpenCV, Streamlit.
+
+**[Geomarketing_analysis](https://github.com/DenisDrobyshev/Geomarketing_analysis)**, choosing a location from geodata (final project of my retraining programme)
+
+- Finds places to open a fitness centre: OpenStreetMap data, an H3 hexagonal grid, an attractiveness model in scikit-learn, interactive maps.
+
+Stack: Python, scikit-learn, H3, OSMnx, GeoPandas.
+
+**[classification_animals](https://github.com/DenisDrobyshev/classification_animals)**, image classifier
+
+- Compared three architectures: a dense network, a plain CNN and a VGG-style network. The best one reached F1 0.88. The model is served through FastAPI with a Streamlit interface.
+
+Stack: Python, TensorFlow/Keras, FastAPI, Streamlit.
 
 <details>
 <summary><b>More projects</b></summary>
 
 <br/>
 
-- [excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): FastAPI service that turns Excel files into validated database tables — auth, configurable templates, web UI.
-- [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): storefront on React — catalogue with filters, cart, wishlist, React Router and Context API.
-- [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): stability analysis of UAV dynamics — Euler and Runge-Kutta integration, eigenvalues, GUI.
+- [excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): a FastAPI service that turns Excel files into validated database tables. Auth, configurable templates, web interface.
+- [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): a shop front on React. Catalogue with filters, cart, wishlist, React Router and Context API.
+- [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): stability analysis of UAV dynamics. Euler and Runge-Kutta methods, eigenvalues, a desktop interface.
 - [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): recognises a function from a hand-drawn graph and exports the formula to text, LaTeX and Excel.
-- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): geodetic coordinate transformation between reference systems, 7-parameter Helmert, FastAPI + Streamlit.
-- [marginpilot](https://github.com/DenisDrobyshev/marginpilot): per-customer LLM cost metering and real-time budgets between an application and the model providers. Go, in progress.
-- [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): stage-gated assistant for marketplace sellers, working from live marketplace data. In progress.
-- [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): a three-week method for quitting short-form video, with the research behind it. EN/RU.
+- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): converts geodetic coordinates between reference systems with the 7-parameter Helmert formula. FastAPI and Streamlit.
+- [marginpilot](https://github.com/DenisDrobyshev/marginpilot): tracks the cost of LLM requests per customer and enforces budgets in real time. Go, in progress.
+- [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): a step-by-step assistant for marketplace sellers that works on live marketplace data. In progress.
+- [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): a three-week plan for quitting short-form video and the research it is based on. In English and Russian.
 
 </details>
 
 ## Education
 
-**B.Sc. in Applied Informatics (09.03.03)** · `2022–2026`<br>
-MIIGAiK — Moscow State University of Geodesy and Cartography, Department of Geoinformatics and Information Security.
+**B.Sc. in Applied Informatics (09.03.03)**, 2022 to 2026  
+MIIGAiK (Moscow State University of Geodesy and Cartography), Department of Geoinformatics and Information Security.
+
+**Professional retraining "Big Data Specialist"**, 2024 to 2025  
+MIIGAiK Digital Department, programme "Development of geoinformation solutions using artificial intelligence methods".
 
 ## Contact
 
-Open to backend and fullstack roles — Moscow, remote or hybrid.
+Open to backend and fullstack roles in Moscow, remote or hybrid.
 
-[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention)
+[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) | [Telegram](https://t.me/multiheadselfattention)

@@ -1,136 +1,134 @@
 # Денис Дробышев
 
-Фулстек-разработчик — Python, Django, FastAPI, React.
+Фулстек-разработчик: Python, Django, FastAPI, React.
 
-[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention) · [Портфолио](https://denisdrobyshev.github.io/portfolio/) · [Хабр Карьера](https://career.habr.com/denisdrobyshev) · [DrobyshevDev](https://github.com/DrobyshevDev)
+[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) | [Telegram](https://t.me/multiheadselfattention) | [Портфолио](https://denisdrobyshev.github.io/portfolio/) | [Хабр Карьера](https://career.habr.com/denisdrobyshev) | [DrobyshevDev](https://github.com/DrobyshevDev)
 
-[English](README.md) · **Русский**
+[English](README.md) | **Русский**
 
 ## О себе
 
-Пишу бэкенды на Python: Django и FastAPI, снизу PostgreSQL, спереди Docker и Nginx. Веду проект целиком — схема, серверная логика, API, интерфейс, деплой. Сервис, который работает только на моём ноутбуке, не закончен, и **три моих работают на инфраструктуре МИИГАиК**: портал журнала из дипломной работы, сервис расписания и личный кабинет студента.
+Пишу бэкенд на Python: Django и FastAPI, PostgreSQL, Docker, Nginx. Обычно веду проект целиком, от схемы базы данных и серверной логики до интерфейса и развёртывания. Три моих сервиса работают в инфраструктуре МИИГАиК: портал научного журнала (дипломная работа), сервис расписания и личный кабинет студента.
 
-Рядом с этим выпускаю открытый код: пять проектов с тегированными релизами, три из них на PyPI. Машинное обучение и компьютерное зрение стоят на том же стеке — детекция на видео в реальном времени, классификаторы изображений, геоаналитический пайплайн по данным OpenStreetMap.
+Ещё занимаюсь машинным обучением: детекция объектов на видео, классификация изображений, геоаналитика по данным OpenStreetMap. Открытые библиотеки выпускаю в организации DrobyshevDev, четыре из них опубликованы на PyPI.
 
-- **Основное:** Python · Django · FastAPI · PostgreSQL · SQL · Docker · Nginx · Gunicorn · Linux · Git
-- **Также:** Go · JavaScript · React · Vue · Java
-- **ML / CV:** PyTorch · TensorFlow · scikit-learn · OpenCV · YOLO
+Основной стек: Python, Django, FastAPI, PostgreSQL, SQL, Docker, Nginx, Gunicorn, Linux, Git.
+Также работал с Go, JavaScript, React, Vue и Java.
+Машинное обучение: PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO.
 
 ## Открытый код
 
-Библиотеки и инструменты для машинного обучения, LLM-агентов и операционных решений лежат в организации [DrobyshevDev](https://github.com/DrobyshevDev), документация — на [drobyshevdev.github.io](https://drobyshevdev.github.io/). Библиотеки типизированы, покрыты тестами в CI и выпускаются тегированными релизами.
+Библиотеки лежат в организации [DrobyshevDev](https://github.com/DrobyshevDev), документация на [drobyshevdev.github.io](https://drobyshevdev.github.io/).
 
-| Проект | Что это | |
+| Проект | Что это | Ссылки |
 |---|---|---|
-| [**decisionrl**](https://github.com/DrobyshevDev/decisionrl) | Обучение с подкреплением для операционных решений: ценообразование, запасы, энергетика, очереди, цепочки поставок. Каждая прикладная среда идёт со своим классическим baseline из исследования операций, поэтому политику измеряют, а не объявляют хорошей. | [PyPI](https://pypi.org/project/decisionrl/) · [документация](https://drobyshevdev.github.io/decisionrl/) |
-| [**stadion**](https://github.com/DrobyshevDev/stadion) | Полигон для операционных решений: агентов оценивают против настроенного классического метода и точного оптимума, с доверительным интервалом. | [PyPI](https://pypi.org/project/stadion-rl/) |
-| [**mlango**](https://github.com/DrobyshevDev/mlango) | Фреймворк для ML, аналитики и LLM-агентов, построенный на философии Django: вы объявляете датасеты, модели и оценки, фреймворк их запускает, версионирует и записывает. | [PyPI](https://pypi.org/project/mlango/) · [документация](https://drobyshevdev.github.io/mlango/) |
-| [**glia**](https://github.com/DrobyshevDev/glia) | Прозрачная библиотека для сборки LLM-агентов: современные техники как опциональные примитивы, никакого скрытого потока управления, ядро без зависимостей. | [документация](https://drobyshevdev.github.io/glia/) |
-| [**praxis**](https://github.com/DrobyshevDev/praxis) | Юридический ассистент по праву РФ, у которого цитаты проверяются, а не утверждаются: гибридный поиск с реранкингом, NLI-верификатор цитат, GraphRAG по перекрёстным ссылкам. | [релиз](https://github.com/DrobyshevDev/praxis/releases/latest) |
-| [**lemma**](https://github.com/DrobyshevDev/lemma) | Бесплатный курс: дорожная карта в ML, DL и RL — с нуля и до умения читать и воспроизводить исследования. 27 модулей. | [сайт](https://drobyshevdev.github.io/lemma/) |
+| [decisionrl](https://github.com/DrobyshevDev/decisionrl) | Обучение с подкреплением для операционных задач: ценообразование, запасы, энергетика, очереди, цепочки поставок. Для каждой задачи есть классический метод из исследования операций, с которым сравнивается обученная политика. | [PyPI](https://pypi.org/project/decisionrl/), [документация](https://drobyshevdev.github.io/decisionrl/) |
+| [stadion](https://github.com/DrobyshevDev/stadion) | Среда для оценки агентов в операционных задачах. Результат агента сравнивается с настроенным классическим методом и с точным оптимумом, считается доверительный интервал. | [PyPI](https://pypi.org/project/stadion-rl/) |
+| [mlango](https://github.com/DrobyshevDev/mlango) | Фреймворк для ML-проектов по образцу Django. Датасеты, модели и оценки описываются в коде, фреймворк их запускает, версионирует и сохраняет результаты. | [PyPI](https://pypi.org/project/mlango/), [документация](https://drobyshevdev.github.io/mlango/) |
+| [glia](https://github.com/DrobyshevDev/glia) | Небольшая библиотека для LLM-агентов. Каждый вызов модели и инструмента можно записать и воспроизвести, у ядра нет зависимостей. | [PyPI](https://pypi.org/project/glia-agents/), [документация](https://drobyshevdev.github.io/glia/) |
+| [praxis](https://github.com/DrobyshevDev/praxis) | Юридический ассистент по праву РФ. Гибридный поиск по кодексам, переранжирование результатов и проверка каждой цитаты NLI-моделью. | [релиз](https://github.com/DrobyshevDev/praxis/releases/latest) |
+| [lemma](https://github.com/DrobyshevDev/lemma) | Бесплатный курс по ML, DL и RL: 27 модулей с ноутбуками, на русском. | [сайт](https://drobyshevdev.github.io/lemma/) |
 
 <!-- RELEASES:START -->
-Последние релизы: [**stadion**](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 августа 2026) · [**praxis**](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 июля 2026) · [**mlango**](https://github.com/DrobyshevDev/mlango/releases/tag/v0.2.0) v0.2.0 (31 июля 2026) · [**glia**](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 июля 2026) · [**decisionrl**](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 июля 2026)
+Последние релизы: [mlango](https://github.com/DrobyshevDev/mlango/releases/tag/v0.3.0) v0.3.0 (22 августа 2026), [stadion](https://github.com/DrobyshevDev/stadion/releases/tag/v0.1.0) v0.1.0 (9 августа 2026), [praxis](https://github.com/DrobyshevDev/praxis/releases/tag/v0.1.0) v0.1.0 (31 июля 2026), [glia](https://github.com/DrobyshevDev/glia/releases/tag/v0.8.2) v0.8.2 (24 июля 2026), [decisionrl](https://github.com/DrobyshevDev/decisionrl/releases/tag/v0.4.0) v0.4.0 (18 июля 2026).
 <!-- RELEASES:END -->
 
-## Активность на GitHub
+## Активность
 
-<p align="center">
-  <img alt="Метрики GitHub — коммиты, пул-реквесты, вклады, языки" src="./github-metrics.svg" />
-</p>
-
-<p align="center">
-  <img alt="Серия вкладов" src="https://streak-stats.demolab.com/?user=DenisDrobyshev&theme=tokyonight&hide_border=true&locale=ru&v=3" />
-</p>
-
-> Коммиты, пул-реквесты и вклады считаются по всем публичным репозиториям, включая пул-реквесты в чужие репозитории. Картинка со статистикой генерируется в CI и коммитится в этот репозиторий — она не зависит от чужого сервиса и не «рейтлимитится».
+<img alt="Статистика GitHub" src="./github-metrics.svg" />
 
 ## Опыт
 
-**Разработчик / DevOps — МИИГАиК, департамент информационных технологий (ДИТ)** · `2026`<br>
-Группа разработки и сопровождения систем; производственная практика.
+**Разработчик / DevOps**, дирекция информационных технологий МИИГАиК, 2026  
+Группа разработки и сопровождения систем, производственная практика.
 
-- Развернул Django-портал на внутренней инфраструктуре университета: PostgreSQL, Gunicorn за Nginx, раздача статики и медиа.
-- Настроил единый вход через корпоративную учётную запись университета по OpenID Connect.
-- Перевёл проект из разработки в продакшен: управление секретами, режим отладки, разрешённые хосты, системная почта.
-- Загрузил реальный архив выпусков журнала и проверил экспорт метаданных в XML.
+- Развернул портал на Django во внутренней инфраструктуре университета: PostgreSQL, Gunicorn за Nginx, раздача статики и медиафайлов.
+- Настроил вход через корпоративную учётную запись университета по OpenID Connect.
+- Подготовил проект к эксплуатации: вынес секреты из кода, отключил режим отладки, настроил разрешённые хосты и системную почту.
+- Загрузил архив выпусков журнала и проверил выгрузку метаданных в XML.
 
-**Техник технической поддержки — МИИГАиК, управление информатизации** · `дек 2024 – янв 2026`<br>
-Служба технической поддержки, 1 год 2 месяца.
+**Техник технической поддержки**, управление информатизации МИИГАиК, дек. 2024 – янв. 2026
 
-- Администрировал рабочие станции и серверы на Windows и Linux в домене Active Directory.
-- Писал автоматизацию на PowerShell и Bash для рутинных задач поддержки.
-- Держал технику в рабочем состоянии и настраивал рабочие места: диагностика, ремонт, установка и настройка ПО и драйверов.
+- Администрировал рабочие станции и серверы на Windows и Linux в домене Active Directory через SCCM.
+- Писал скрипты на PowerShell и Bash для повторяющихся задач поддержки.
+- Ремонтировал и настраивал компьютеры, устанавливал программы и драйверы, готовил рабочие места.
 
-**Бэкенд / веб-разработчик — внутренние системы МИИГАиК** · `2023–2024`<br>
-Работа над университетскими сервисами во время учёбы.
+**Бэкенд / веб-разработчик**, внутренние системы МИИГАиК, 2023–2024
 
-- Сервис расписания занятий: большой SQL-запрос, который собирает расписание из нескольких связанных таблиц, встроен во внутренние Go-сервисы университета.
-- Личный кабинет студента: расписание, зачётная книжка, профиль и новости университета, адаптивный интерфейс ([miigaik-lk](https://github.com/DenisDrobyshev/miigaik-lk)).
-- Инфраструктура уже существовала — работа состояла в чтении чужого кода, следовании чужим соглашениям и внесении изменений, которые должны были встать в остальную систему.
+- Сервис расписания: написал SQL-запрос, который собирает расписание из нескольких связанных таблиц. Его используют внутренние сервисы университета на Go.
+- Личный кабинет студента: расписание, зачётная книжка, профиль и новости университета, адаптивная вёрстка ([miigaik-lk](https://github.com/DenisDrobyshev/miigaik-lk)).
 
 ## Проекты
 
-**GiA — портал научного журнала** · `дипломная работа, развёрнут` · приватный репозиторий, демо по запросу<br>
-Портал журнала «Известия вузов. Геодезия и аэрофотосъёмка»: архив выпусков, редакторская админка, личные кабинеты читателей. Спроектирован, собран и развёрнут на университетской инфраструктуре.
+**GiA, портал научного журнала** (дипломная работа, развёрнут в университете; репозиторий закрытый, демо по запросу)  
+Портал журнала «Известия вузов. Геодезия и аэрофотосъёмка»: архив выпусков, админка для редакции, личные кабинеты читателей.
 
-- Админка для редакции: выпуски, статьи, инлайн-формы, с правилом, что текущим может быть ровно один выпуск.
-- Корпоративный SSO по OpenID Connect, личные кабинеты, доступ по ролям.
-- Защита от CSRF, XSS и SQL-инъекций; секреты вне репозитория.
-- Экспорт метаданных в XML для библиографического индексирования и тесты на нескольких уровнях.
-- `Python · Django · PostgreSQL · Docker · Nginx · Gunicorn · OIDC`
+- Админка для редакции: выпуски, статьи, вложенные формы. Текущим может быть только один выпуск.
+- Вход через корпоративный SSO по OpenID Connect, личные кабинеты, доступ по ролям.
+- Защита от CSRF, XSS и SQL-инъекций, секреты хранятся вне репозитория.
+- Выгрузка метаданных в XML для библиографических баз, тесты на нескольких уровнях.
 
-**[approval-service](https://github.com/DenisDrobyshev/approval-service) — бэкенд согласования контента**
+Стек: Python, Django, PostgreSQL, Docker, Nginx, Gunicorn, OpenID Connect.
 
-- Контент двигается по конечному автомату: каждый переход попадает в журнал аудита, а события уходят из сервиса через транзакционный outbox.
-- Поддержка Idempotency-Key, изоляция арендаторов по воркспейсам, авторизация по заголовку со скоупами, вырезание секретов из логов.
-- `Python · FastAPI · async SQLAlchemy 2.0 · Alembic · PostgreSQL · Docker · pytest`
+**[approval-service](https://github.com/DenisDrobyshev/approval-service)**, бэкенд согласования контента
 
-**[decisionrl](https://github.com/DrobyshevDev/decisionrl) — обучение с подкреплением для операционных решений**
+- Контент проходит через конечный автомат. Каждый переход записывается в журнал аудита, события уходят из сервиса через transactional outbox.
+- Поддержка Idempotency-Key, изоляция данных по рабочим пространствам, авторизация по заголовку со скоупами, секреты вырезаются из логов.
 
-- Каждая прикладная среда идёт с классическим baseline, который надо побить. На пяти сидах обученная политика обходит сильный baseline на пяти задачах и совпадает с точным оптимумом динамического программирования там, где он существует; PPO выходит на паритет со Stable-Baselines3 на CartPole.
-- Написано с нуля: 31 алгоритм (семейство DQN, PPO, SAC, TD3, TRPO, offline, model-based, мультиагентные, meta-RL) на PyTorch, 22 среды, из них 9 прикладных, 12 безградиентных оптимизаторов, единый интерфейс `predict / learn / save / load`, CLI и регистрация в Gymnasium.
-- 400 тестов, покрытие 86%, типизировано и проверено mypy, CI на Python 3.9–3.12, опубликовано на PyPI.
-- `Python · PyTorch · NumPy · Gymnasium · MkDocs · GitHub Actions`
+Стек: Python, FastAPI, async SQLAlchemy 2.0, Alembic, PostgreSQL, Docker, pytest.
 
-**[Detector_app](https://github.com/DenisDrobyshev/Detector_app) — детекция на видео в реальном времени**
+**[decisionrl](https://github.com/DrobyshevDev/decisionrl)**, обучение с подкреплением для операционных задач
 
-- Находит события в кадре на лету: YOLO для детекции, InsightFace для распознавания лиц. Работает с веб-камерой и с видеофайлом, отдаёт отчёты в CSV.
-- `Python · YOLO · InsightFace · OpenCV · Streamlit`
+- К каждой прикладной среде прилагается классический метод из исследования операций, с которым сравнивается обученная политика. На пяти задачах политика его обходит, ещё на двух совпадает с оптимальным решением.
+- Написано с нуля: 32 алгоритма на PyTorch (DQN и его варианты, PPO, SAC, TD3, TRPO, offline, model-based, мультиагентные, meta-RL), 24 среды, из них 9 прикладных, 12 безградиентных оптимизаторов, единый интерфейс predict / learn / save / load и CLI.
+- Код типизирован и проверяется mypy, CI на Python 3.9–3.12, пакет опубликован на PyPI.
 
-**[Geomarketing_analysis](https://github.com/DenisDrobyshev/Geomarketing_analysis) — выбор локации по геоданным**
+Стек: Python, PyTorch, NumPy, Gymnasium, MkDocs, GitHub Actions.
 
-- Где открыть фитнес-центр: данные OpenStreetMap, гексагональная сетка H3, модель привлекательности на scikit-learn, интерактивные карты.
-- `Python · scikit-learn · H3 · OSMnx · GeoPandas`
+**[Detector_app](https://github.com/DenisDrobyshev/Detector_app)**, детекция на видео в реальном времени
 
-**[classification_animals](https://github.com/DenisDrobyshev/classification_animals) — классификатор изображений**
+- Находит события в кадре на лету: YOLO для детекции, InsightFace для распознавания лиц. Работает с веб-камерой и видеофайлами, сохраняет отчёты в CSV.
 
-- Сравнил три архитектуры — полносвязная, простая CNN, в стиле VGG. Лучший результат F1 0.88. Инференс отдаётся через FastAPI за интерфейсом на Streamlit.
-- `Python · TensorFlow/Keras · FastAPI · Streamlit`
+Стек: Python, YOLO, InsightFace, OpenCV, Streamlit.
+
+**[Geomarketing_analysis](https://github.com/DenisDrobyshev/Geomarketing_analysis)**, выбор места по геоданным (итоговый проект переподготовки)
+
+- Подбирает место для фитнес-центра: данные OpenStreetMap, гексагональная сетка H3, модель привлекательности на scikit-learn, интерактивные карты.
+
+Стек: Python, scikit-learn, H3, OSMnx, GeoPandas.
+
+**[classification_animals](https://github.com/DenisDrobyshev/classification_animals)**, классификатор изображений
+
+- Сравнил три архитектуры: полносвязную сеть, простую CNN и сеть в стиле VGG. Лучший результат F1 0.88. Модель отдаётся через FastAPI, интерфейс на Streamlit.
+
+Стек: Python, TensorFlow/Keras, FastAPI, Streamlit.
 
 <details>
 <summary><b>Остальные проекты</b></summary>
 
 <br/>
 
-- [excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): сервис на FastAPI, превращающий файлы Excel в валидированные таблицы базы — авторизация, настраиваемые шаблоны, веб-интерфейс.
-- [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): витрина магазина на React — каталог с фильтрами, корзина, избранное, React Router и Context API.
-- [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): анализ устойчивости динамики БПЛА — интегрирование методами Эйлера и Рунге-Кутты, собственные числа, GUI.
-- [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): распознаёт функцию по нарисованному от руки графику и выгружает формулу в текст, LaTeX и Excel.
-- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): пересчёт геодезических координат между референц-системами, 7-параметрическая формула Гельмерта, FastAPI + Streamlit.
-- [marginpilot](https://github.com/DenisDrobyshev/marginpilot): учёт стоимости LLM по каждому клиенту и бюджеты в реальном времени между приложением и провайдерами моделей. Go, в работе.
-- [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): пошаговый ассистент для продавцов маркетплейсов, работающий на живых данных площадок. В работе.
-- [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): трёхнедельный метод отказа от коротких видео вместе с исследованиями, на которых он стоит. EN/RU.
+- [excel-to-db-converter](https://github.com/DenisDrobyshev/excel-to-db-converter): сервис на FastAPI, который превращает файлы Excel в проверенные таблицы базы данных. Авторизация, настраиваемые шаблоны, веб-интерфейс.
+- [chinese-premium-store](https://github.com/DenisDrobyshev/chinese-premium-store): витрина магазина на React. Каталог с фильтрами, корзина, избранное, React Router и Context API.
+- [StableDroneSystemAnalysis](https://github.com/DenisDrobyshev/StableDroneSystemAnalysis): анализ устойчивости динамики БПЛА. Методы Эйлера и Рунге-Кутты, собственные числа, графический интерфейс.
+- [FunctionSketch](https://github.com/DenisDrobyshev/FunctionSketch): распознаёт функцию по графику, нарисованному от руки, и выгружает формулу в текст, LaTeX и Excel.
+- [StreamlitFastAPI_app](https://github.com/DenisDrobyshev/StreamlitFastAPI_app): пересчёт геодезических координат между системами координат по 7-параметрической формуле Гельмерта. FastAPI и Streamlit.
+- [marginpilot](https://github.com/DenisDrobyshev/marginpilot): учёт стоимости запросов к LLM по каждому клиенту и бюджеты в реальном времени. Go, в работе.
+- [sellerhelper](https://github.com/DenisDrobyshev/sellerhelper): пошаговый помощник для продавцов маркетплейсов на живых данных площадок. В работе.
+- [ScrollStop](https://github.com/DenisDrobyshev/ScrollStop): трёхнедельный план отказа от коротких видео и исследования, на которые он опирается. На русском и английском.
 
 </details>
 
 ## Образование
 
-**Бакалавр, прикладная информатика (09.03.03)** · `2022–2026`<br>
-МИИГАиК — Московский государственный университет геодезии и картографии, факультет геоинформатики и информационной безопасности.
+**Бакалавриат, прикладная информатика (09.03.03)**, 2022–2026  
+МИИГАиК, факультет геоинформатики и информационной безопасности.
+
+**Профессиональная переподготовка «Специалист по большим данным»**, 2024–2025  
+Цифровая кафедра МИИГАиК, программа «Разработка геоинформационных решений с использованием методов искусственного интеллекта».
 
 ## Контакты
 
-Открыт к предложениям по бэкенду и фулстеку — Москва, удалённо или гибрид.
+Открыт к предложениям по бэкенду и фулстеку, Москва, удалённо или гибрид.
 
-[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) · [Telegram](https://t.me/multiheadselfattention)
+[drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) | [Telegram](https://t.me/multiheadselfattention)

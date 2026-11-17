@@ -66,8 +66,8 @@ def render(releases, lang: str) -> str:
             date = f"{published.day} {RU_MONTHS[published.month - 1]} {published.year}"
         else:
             date = published.strftime("%d %b %Y").lstrip("0")
-        parts.append(f"[**{name}**]({url}) {tag} ({date})")
-    return f"{label} " + " · ".join(parts)
+        parts.append(f"[{name}]({url}) {tag} ({date})")
+    return f"{label} " + ", ".join(parts) + "."
 
 
 def rewrite(path: Path, body: str) -> bool:
