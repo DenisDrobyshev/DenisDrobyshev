@@ -1,7 +1,5 @@
 # Денис Дробышев
 
-Фулстек-разработчик: Python, Django, FastAPI, React.
-
 [drobishev.denis@icloud.com](mailto:drobishev.denis@icloud.com) | [Telegram](https://t.me/multiheadselfattention) | [Портфолио](https://denisdrobyshev.github.io/portfolio/) | [Хабр Карьера](https://career.habr.com/denisdrobyshev) | [DrobyshevDev](https://github.com/DrobyshevDev)
 
 [English](README.md) | **Русский**
